@@ -1,8 +1,6 @@
 # [ACL 2026: Main] Topology-Aware Conjunctive Prompt Attacks in Multi-Agent LLM Systems
 
-[![ACL](https://img.shields.io/badge/ACL-2026-blue)]()
 [![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)]()
-[![Python](https://img.shields.io/badge/python-3.10-blue.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Official implementation for the ACL paper:
